@@ -1,0 +1,3 @@
+git push = memasukan semua file yang sudah kita buat ke repositori online
+git add = menambahkan file ke repositori online
+git commit = menyatukan file yang sudah di tambahkan
